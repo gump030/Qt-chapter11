@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MouseEvent", "MouseEvent\Mo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KeyEvent", "KeyEvent\KeyEvent.vcxproj", "{957D40B4-DC72-4EA4-884D-988F4A04CDD8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EventFilter", "EventFilter\EventFilter.vcxproj", "{12079CF3-F559-4E7A-92EB-8C8BC22D32C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,10 @@ Global
 		{957D40B4-DC72-4EA4-884D-988F4A04CDD8}.Debug|x64.Build.0 = Debug|x64
 		{957D40B4-DC72-4EA4-884D-988F4A04CDD8}.Release|x64.ActiveCfg = Release|x64
 		{957D40B4-DC72-4EA4-884D-988F4A04CDD8}.Release|x64.Build.0 = Release|x64
+		{12079CF3-F559-4E7A-92EB-8C8BC22D32C0}.Debug|x64.ActiveCfg = Debug|x64
+		{12079CF3-F559-4E7A-92EB-8C8BC22D32C0}.Debug|x64.Build.0 = Debug|x64
+		{12079CF3-F559-4E7A-92EB-8C8BC22D32C0}.Release|x64.ActiveCfg = Release|x64
+		{12079CF3-F559-4E7A-92EB-8C8BC22D32C0}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
